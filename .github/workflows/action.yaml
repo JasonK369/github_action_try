@@ -1,5 +1,4 @@
 name: 'first_action'
-description: 'first action ever made :)'
 
 # on -> means when to trigger the action
 on:
